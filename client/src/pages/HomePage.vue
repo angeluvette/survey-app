@@ -16,7 +16,7 @@
               <p class="q-mb-md">visit me on <a :href="linkedIn"
                   target="_blank">LinkedIn</a></p>
               <q-img
-   src="~assets/https://doeims2storage.blob.core.windows.net/doetestdocuments/StudentDocuments/c929a31b-2062-4d5e-b989-36fd71a8d2d7_355844198_10222819540825207_2826652599208649144_n.jpg"
+   src="~assets/lol.jpg"
                 style="border-radius:50%;" width="50%" />
               </div>
             </div>
